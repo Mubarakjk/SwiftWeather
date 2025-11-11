@@ -2,8 +2,7 @@
 SwiftUI Weather App with Day/Night Toggle and 5-Day Forecast
 # SwiftUI Weather App 🌤️🌙
 
-A SwiftUI-based weather app that showcases a dynamic interface with day/night toggle and a 5-day forecast. This project is perfect for learning SwiftUI components, state management, and custom UI design.
-
+A SwiftUI-based weather app that showcases a dynamic interface with day/night toggle and a 5-day forecast. I built this project while learning SwiftUI fundamentals from online tutorial
 ---
 
 ## Features
