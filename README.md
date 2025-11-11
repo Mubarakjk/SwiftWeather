@@ -22,7 +22,10 @@ A SwiftUI-based weather app that showcases a dynamic interface with day/night to
 ## Screenshots
 
 **Day Mode**  
-![London, UK](https://github.com/user-attachments/assets/9f252bd8-24b1-4b2f-93af-3c1821b6d21c)
+![London, UK](https://github.com/user-attachments/assets/9163fe34-12d6-447a-940c-5db7d9d8b16d)
+**Night Mode**  
+![New Note](https://github.com/user-attachments/assets/77636802-8302-4665-8e27-d059a013e864)
+
 
 
 ---
